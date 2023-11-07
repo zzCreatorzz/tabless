@@ -21,8 +21,8 @@ Table, tr, td { Border: 1px solid black:}
 <tfoot> 
 <tr> 
 <td>Strawberries seem to be just right when it comes to size and portion. (3,1)</td>
-<td>Grapes are just right when it comes to portion but not when it comes to size, they are to small. (3,2)</td> 
-<td>Apples are just right when it comes to sizes but not portion, that isn’t enough when it comes to how many come in a package.  (3,3)</td>
+<td>Grapes are just right when it comes to portion but not when it comes to size, they are too small. (3,2)</td> 
+<td>Apples are just right when it comes to sizes but not in portions, that isn’t enough when it comes to how many come in a package.  (3,3)</td>
 </tr> 
 </tfoot>
 </table> 
