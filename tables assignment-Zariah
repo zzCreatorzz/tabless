@@ -1,0 +1,28 @@
+<style> 
+Table, tr, td { Border: 1px solid black:}
+</style> 
+<table> 
+<caption> 3 Fruits </caption> 
+<thead>
+<tr>  
+<td> colspan=”3” >Row 1, Column 1-3</td>
+<th> Strawberry (1,1)</th>
+<th> Grapes (1,2)</th> 
+<th> Apples (1,3)</th> 
+</tr> 
+</thead> 
+<tbody> 
+<tr> 
+<td> Strawberries tend to be a good size with a good amount in the packaging. (2,1)</td> 
+<td> Grapes are a smaller size but have a lot in their packaging. (2,2)</td> 
+<td> Apples are a big size but don’t tend to have very many in the packaging. (2,3)</td>
+</tr>
+</tbody> 
+<tfoot> 
+<tr> 
+<td>Strawberries seem to be just right when it comes to size and portion. (3,1)</td>
+<td>Grapes are just right when it comes to portion but not when it comes to size, they are to small. (3,2)</td> 
+<td>Apples are just right when it comes to sizes but not portion, that isn’t enough when it comes to how many come in a package.  (3,3)</td>
+</tr> 
+</tfoot>
+</table> 
